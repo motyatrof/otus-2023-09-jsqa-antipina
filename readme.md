@@ -11,3 +11,5 @@ Project description
 ## Feature 
 - 1
 - 2
+
+## Создано в рамках курса OTUS JavaScript QA Engineer
